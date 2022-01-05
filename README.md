@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @DarshanSapariya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi There, I am Darshan
+### And here are some things about me and my github
+
+- 👋 Hi, I am currently studyingas student
+- 👀 I’m interested Data Science and Data Analytics
+- 🌱 I’m currently learning on my personal projects
+- 💞️ I’m looking to collaborate on Data scinece and Machine Learning projects
+- 📫 How to reach me sapariyadarshan2001@gmail.com
 
 <!---
 DarshanSapariya/DarshanSapariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
