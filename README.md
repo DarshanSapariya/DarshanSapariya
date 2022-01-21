@@ -1,4 +1,4 @@
-##                                                            Hi There, I am Darshan
+##  \n \nHi There, I am Darshan
 ### And here are some things about me and my github
 
 - 👋 Hi, I am currently studyingas student
